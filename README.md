@@ -1,4 +1,4 @@
-#React Homework 40 — робота з хуком use() в React
+# React Homework 40 — робота з хуком use() в React
 
 Проєкт демонструє роботу хука **`use()`** в React для роботи з Promise.  
 Використано **Suspense** для відображення стану завантаження та **ErrorBoundary** для обробки помилок.
